@@ -1,0 +1,13 @@
+{
+    "build": {
+        "dockerfile": "dockerfile"
+    },
+    "customizations": {
+        "vscode": {
+            "extensions": [
+                "DEVSENSE.phptools-vscode",
+                "ms-azuretools.vscode-docker"
+            ]
+        }
+    }
+}
